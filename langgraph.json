@@ -1,0 +1,12 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "agent": "./final.py:graph"
+
+  },
+  "env": "/home/iiitkota/1079/Appointment/.env",
+  "python_version": "3.11",
+  "dependencies": [
+    "."
+  ]
+}
