@@ -82,8 +82,4 @@ Powers the voice-calling capability, enabling Harini to initiate real-time phone
 
 
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=GX7_fcz4IAA" target="_blank">
-    <strong>▶️ Click here for demonstration</strong>
-  </a>
-</p>
+
